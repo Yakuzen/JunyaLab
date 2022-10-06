@@ -26,3 +26,4 @@ Here are some ideas to get you started:
     <img height="20" src="https://qiita-badge.apiapi.app/s/JunyaLab/posts.svg" />
   </a>
 </p>
+  https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JunyaLab&theme=dracula
