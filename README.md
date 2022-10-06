@@ -31,9 +31,3 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=JunyaLab&count_private=true&show_icons=true&theme=noctis_minimus)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JunyaLab&layout=compact&theme=noctis_minimus)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zizi4n5&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5" />
-</a>
