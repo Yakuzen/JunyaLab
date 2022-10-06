@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">
+  <a href="https://github.com/JunyaLab/JunyaLab/">
+    <img src="https://komarev.com/ghpvc/?username=JunyaLab" alt="JunyaLab" />
+  </a>
+  <a href="https://github.com/JunyaLab">
+    <img height="20" src="https://img.shields.io/github/followers/JunyaLab?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/JunyaLab">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/JunyaLab/posts.svg" />
+  </a>
+  <//qiita.com/JunyaLab">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/JunyaLab/contributions.svg" />
+  </a>
+</p>
