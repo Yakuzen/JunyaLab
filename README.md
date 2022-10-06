@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 </p>
 <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JunyaLab&theme=dracula"></a>
 
-[![JunyaLab's github stats](https://github-readme-stats.vercel.app/api?username=JunyaLab&hide=contribs&count_private=true&show_icons=true&theme=noctis_minimus)](https://github.com/JunyaLab/)
+<p>
+  [![JunyaLab's github stats](https://github-readme-stats.vercel.app/api?username=JunyaLab&hide=contribs&count_private=true&show_icons=true&theme=noctis_minimus)](https://github.com/JunyaLab/)
 
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunyaLab&layout=compact&theme=noctis_minimus)](https://github.com/JunyaLab/)
+  [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunyaLab&layout=compact&theme=noctis_minimus)](https://github.com/JunyaLab/)
+</p>
