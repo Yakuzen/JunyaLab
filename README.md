@@ -25,5 +25,5 @@ Here are some ideas to get you started:
   <a href="http://qiita.com/JunyaLab">
     <img height="20" src="https://qiita-badge.apiapi.app/s/JunyaLab/posts.svg" />
   </a>
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JunyaLab&theme=dracula">
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JunyaLab&theme=dracula"></a>
 </p>
