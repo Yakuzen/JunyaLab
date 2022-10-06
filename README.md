@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 <!-- リポジトリステータス -->
 [![JunyaLab's github stats](https://github-readme-stats.vercel.app/api?username=JunyaLab&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/JunyaLab/)
 
-<!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunyaLab&layout=compact&theme=tokyonight)](https://github.com/JunyaLab/)
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=JunyaLab&layout=compact&theme=tokyonight)](https://github.com/JunyaLab/
