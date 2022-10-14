@@ -15,9 +15,3 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=JunyaLab&count_private=true&show_icons=true&theme=noctis_minimus)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JunyaLab&layout=compact&theme=noctis_minimus)
-
-## 制作物
-### <a href="https://junyalab.github.io/asanpo-diary/">あさんぽ日記<a>
-最近、起床後すぐに散歩をすることが、私の中で良い1日をスタートさせるためのスイッチとして重要な役割を担っています。
-この散歩を"あさんぽ"と呼んでいるのですが、散歩に限らずルーティンを持っておくことはモチベーションで作業効率を落とさないために役立つはずです。
-そこで、継続したい行動を記録するツールを作成することにいたしましたので、よろしければお使いください。また、フィードバック等いただけましたら幸いです。
