@@ -1,8 +1,8 @@
 ### Thank you for coming 👋
 
 <p align="left">
-  <a href="https://github.com/sen-bero/sen-bero/">
-    <img src="https://komarev.com/ghpvc/?username=sen-bero" alt="sen-bero" />
+  <a href="https://github.com/sen-bero/senbero/">
+    <img src="https://komarev.com/ghpvc/?username=sen-bero" alt="senbero" />
   </a>
   <a href="https://github.com/sen-bero">
     <img height="20" src="https://img.shields.io/github/followers/sen-bero?label=follow&logo=github&style=flat" />
